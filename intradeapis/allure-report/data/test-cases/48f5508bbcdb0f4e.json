@@ -1,0 +1,55 @@
+{
+  "uid" : "48f5508bbcdb0f4e",
+  "name" : "Then I should see all the list of available categories and valid response code.",
+  "fullName" : "Scenario: This call will verify the GET verb of Categories API.Then I should see all the list of available categories and valid response code.",
+  "historyId" : "25419fd49805f0e0179cf398863a4c3",
+  "time" : {
+    "start" : 1536559825065,
+    "stop" : 1536559825075,
+    "duration" : 10
+  },
+  "status" : "failed",
+  "statusMessage" : "expected:<401> but was:<200>",
+  "statusTrace" : "java.lang.AssertionError: expected:<401> but was:<200>\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:834)\r\n\tat org.junit.Assert.assertEquals(Assert.java:645)\r\n\tat org.junit.Assert.assertEquals(Assert.java:631)\r\n\tat intradeUtils.stepDeffs.GetinTradeCategoriesStepDeff.i_should_see_all_the_list_of_available_categories_and_valid_response_code(GetinTradeCategoriesStepDeff.java:69)\r\n\tat ✽.Then I should see all the list of available categories and valid response code.(features/GetInTradeItemCategories.feature:16)\r\n",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "Scenario: This call will verify the GET verb of Categories API"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see all the list of available categories and valid response code."
+  }, {
+    "name" : "suite",
+    "value" : "Scenario: This call will verify the GET verb of Categories API"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-LCVC5SMJ"
+  }, {
+    "name" : "thread",
+    "value" : "19096@LAPTOP-LCVC5SMJ.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "48f5508bbcdb0f4e.json",
+  "parameterValues" : [ ]
+}

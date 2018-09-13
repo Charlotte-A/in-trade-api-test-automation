@@ -1,0 +1,45 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Scenario: This call will verify the GET verb of Categories API",
+    "children" : [ {
+      "name" : "Given I have setup an EndPoint for the categories",
+      "uid" : "c23dd6fd56781c73",
+      "parentUid" : "207c4c128feae6b5f0d1f23972f27cee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1536559823171,
+        "stop" : 1536559823178,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "When I perform a GET operation",
+      "uid" : "1bf80c70204dc0b0",
+      "parentUid" : "207c4c128feae6b5f0d1f23972f27cee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1536559824985,
+        "stop" : 1536559824986,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Then I should see all the list of available categories and valid response code.",
+      "uid" : "48f5508bbcdb0f4e",
+      "parentUid" : "207c4c128feae6b5f0d1f23972f27cee",
+      "status" : "failed",
+      "time" : {
+        "start" : 1536559825065,
+        "stop" : 1536559825075,
+        "duration" : 10
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "207c4c128feae6b5f0d1f23972f27cee"
+  } ]
+}

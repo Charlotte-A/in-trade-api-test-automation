@@ -1,0 +1,31 @@
+[ {
+  "uid" : "c23dd6fd56781c73",
+  "name" : "Given I have setup an EndPoint for the categories",
+  "time" : {
+    "start" : 1536559823171,
+    "stop" : 1536559823178,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48f5508bbcdb0f4e",
+  "name" : "Then I should see all the list of available categories and valid response code.",
+  "time" : {
+    "start" : 1536559825065,
+    "stop" : 1536559825075,
+    "duration" : 10
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1bf80c70204dc0b0",
+  "name" : "When I perform a GET operation",
+  "time" : {
+    "start" : 1536559824985,
+    "stop" : 1536559824986,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

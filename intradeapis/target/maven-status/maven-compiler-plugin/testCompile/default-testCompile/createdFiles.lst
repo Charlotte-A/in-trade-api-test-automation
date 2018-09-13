@@ -1,0 +1,8 @@
+intradeUtils\stepDeffs\GetInTradeProductsPaginated.class
+intradeUtils\stepDeffs\GetSingleItemBasketStepDeff.class
+intradeUtils\stepDeffs\GetProductPageCountStepDeff.class
+intradeUtils\stepDeffs\GetSpecificPageCountStepDeff.class
+RunnerCukesTest.class
+intradeUtils\stepDeffs\GetinTradeCategoriesStepDeff.class
+intradeUtils\stepDeffs\GetInTradeSuppliersListStepDeff.class
+intradeUtils\stepDeffs\GetProductByPageNumStepDeff.class

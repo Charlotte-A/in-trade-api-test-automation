@@ -1,0 +1,49 @@
+{
+  "uid" : "c23dd6fd56781c73",
+  "name" : "Given I have setup an EndPoint for the categories",
+  "fullName" : "Scenario: This call will verify the GET verb of Categories API.Given I have setup an EndPoint for the categories",
+  "historyId" : "a936d164f7e5608200b7e8e971c990f0",
+  "time" : {
+    "start" : 1536559823171,
+    "stop" : 1536559823178,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "Scenario: This call will verify the GET verb of Categories API"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I have setup an EndPoint for the categories"
+  }, {
+    "name" : "suite",
+    "value" : "Scenario: This call will verify the GET verb of Categories API"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-LCVC5SMJ"
+  }, {
+    "name" : "thread",
+    "value" : "19096@LAPTOP-LCVC5SMJ.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c23dd6fd56781c73.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"failed","Scenario: This call will verify the GET verb of Categories API.Then I should see all the list of available categories and valid response code.","10",""
+"passed","Scenario: This call will verify the GET verb of Categories API.When I perform a GET operation","1",""
+"passed","Scenario: This call will verify the GET verb of Categories API.Given I have setup an EndPoint for the categories","7",""

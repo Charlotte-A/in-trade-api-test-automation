@@ -1,0 +1,49 @@
+{
+  "uid" : "1bf80c70204dc0b0",
+  "name" : "When I perform a GET operation",
+  "fullName" : "Scenario: This call will verify the GET verb of Categories API.When I perform a GET operation",
+  "historyId" : "35aa5ad3e8dda3f92ecee5932594ab9b",
+  "time" : {
+    "start" : 1536559824985,
+    "stop" : 1536559824986,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "Scenario: This call will verify the GET verb of Categories API"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I perform a GET operation"
+  }, {
+    "name" : "suite",
+    "value" : "Scenario: This call will verify the GET verb of Categories API"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-LCVC5SMJ"
+  }, {
+    "name" : "thread",
+    "value" : "19096@LAPTOP-LCVC5SMJ.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1bf80c70204dc0b0.json",
+  "parameterValues" : [ ]
+}

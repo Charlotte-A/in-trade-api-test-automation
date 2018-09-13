@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="14.409742">
+<testcase classname="This feature will perform a CRUD operations of the Products Categories" name="This call will verify the GET verb of Categories API" time="14.409742">
+<system-out><![CDATA[Given I have setup an EndPoint for the categories...........................passed
+When I perform a GET operation..............................................passed
+Then I should see all the list of available categories and valid response code..passed
+]]></system-out>
+</testcase>
+</testsuite>

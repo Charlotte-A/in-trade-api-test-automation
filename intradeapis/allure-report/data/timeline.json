@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-LCVC5SMJ",
+    "children" : [ {
+      "name" : "19096@LAPTOP-LCVC5SMJ.main(1)",
+      "children" : [ {
+        "name" : "Then I should see all the list of available categories and valid response code.",
+        "uid" : "48f5508bbcdb0f4e",
+        "parentUid" : "ebd7dd78988e54f098b0e017ccca0692",
+        "status" : "failed",
+        "time" : {
+          "start" : 1536559825065,
+          "stop" : 1536559825075,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "When I perform a GET operation",
+        "uid" : "1bf80c70204dc0b0",
+        "parentUid" : "ebd7dd78988e54f098b0e017ccca0692",
+        "status" : "passed",
+        "time" : {
+          "start" : 1536559824985,
+          "stop" : 1536559824986,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Given I have setup an EndPoint for the categories",
+        "uid" : "c23dd6fd56781c73",
+        "parentUid" : "ebd7dd78988e54f098b0e017ccca0692",
+        "status" : "passed",
+        "time" : {
+          "start" : 1536559823171,
+          "stop" : 1536559823178,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ebd7dd78988e54f098b0e017ccca0692"
+    } ],
+    "uid" : "78a03f6679d335106928c365b9ac19f2"
+  } ]
+}

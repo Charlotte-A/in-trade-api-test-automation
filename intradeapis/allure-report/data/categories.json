@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected:<401> but was:<200>",
+      "children" : [ {
+        "name" : "Then I should see all the list of available categories and valid response code.",
+        "uid" : "48f5508bbcdb0f4e",
+        "parentUid" : "168ba97ab36a5439c6fad0fc0fec82de",
+        "status" : "failed",
+        "time" : {
+          "start" : 1536559825065,
+          "stop" : 1536559825075,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "168ba97ab36a5439c6fad0fc0fec82de"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

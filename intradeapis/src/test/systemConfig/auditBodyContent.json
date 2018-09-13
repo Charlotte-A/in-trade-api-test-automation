@@ -1,0 +1,8 @@
+{
+  "status": "string",
+  "error": {
+    "message": "string",
+    "serviceName": "string",
+    "code": 0
+  }
+}
